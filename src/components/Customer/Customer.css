@@ -1,0 +1,15 @@
+.customer-basic-details{
+    height: 50px;
+    background-color: lightgrey;
+    border-bottom: 1px solid grey;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.customer-basic-details:hover{
+    background-color: grey;
+    color: white;
+    font-weight: 900;
+}

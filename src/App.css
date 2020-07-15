@@ -1,0 +1,7 @@
+.flex-box {
+  display: flex;
+}
+
+.horizontally-center-flex {
+  justify-content: center;
+}
